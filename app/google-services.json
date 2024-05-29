@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "542888243025",
+    "project_id": "oneproject-op",
+    "storage_bucket": "oneproject-op.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542888243025:android:2a4b8709e4ae19ebf52d70",
+        "android_client_info": {
+          "package_name": "com.kivous.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqckEbNb-48TsCRBPZ2T-JOAYX9FNBF0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542888243025:android:987f24d413e7427cf52d70",
+        "android_client_info": {
+          "package_name": "com.kivous.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqckEbNb-48TsCRBPZ2T-JOAYX9FNBF0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542888243025:android:bb2c1a2e41067557f52d70",
+        "android_client_info": {
+          "package_name": "com.kivous.otplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqckEbNb-48TsCRBPZ2T-JOAYX9FNBF0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542888243025:android:55678ed58c68dc02f52d70",
+        "android_client_info": {
+          "package_name": "com.kivous.phase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqckEbNb-48TsCRBPZ2T-JOAYX9FNBF0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542888243025:android:00719983be45e977f52d70",
+        "android_client_info": {
+          "package_name": "com.kivous.phasemovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqckEbNb-48TsCRBPZ2T-JOAYX9FNBF0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
